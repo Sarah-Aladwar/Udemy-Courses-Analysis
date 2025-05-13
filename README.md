@@ -78,12 +78,12 @@ It breaks down performance by **subject**, **course level**, **year**, and **pay
 📂 Udemy-Courses-Analysis/
 ├── 📄 README.md
 ├── 📂 Data/
-│ └── 🧮 Udemy Courses Dataset.xlsx
+│   └── 🧮 Udemy Courses Dataset.xlsx
 ├── 📂 Analysis/
-│ └── 📉 Udemy Courses Analysis.xlsx
+│   └── 📉 Udemy Courses Analysis.pbix
 ├── 📂 Outputs/
-│ └── 📊 Udemy Courses Dashboard.pdf
+│   └── 📊 Udemy Courses Dashboard.pdf
 └── 📂 Visuals/
-└── 🖼️ Dashboard Preview.png
+    └── 🖼️ Dashboard Preview.png
 ```
 ![Dashboard Preview](https://github.com/Sarah-Aladwar/Udemy-Courses-Analysis/raw/main/Visuals/Dashboard%20Preview.PNG)
