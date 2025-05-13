@@ -74,6 +74,7 @@ It breaks down performance by **subject**, **course level**, **year**, and **pay
 
 ## 📁 Folder Structure
 
+```text
 📂 Udemy-Courses-Analysis/
 ├── 📄 README.md
 ├── 📂 Data/
@@ -84,3 +85,5 @@ It breaks down performance by **subject**, **course level**, **year**, and **pay
 │ └── 📊 Udemy Courses Dashboard.pdf
 └── 📂 Visuals/
 └── 🖼️ Dashboard Preview.png
+```
+![Dashboard Preview](https://github.com/Sarah-Aladwar/Udemy-Courses-Analysis/raw/main/Visuals/Dashboard%20Preview.PNG)
