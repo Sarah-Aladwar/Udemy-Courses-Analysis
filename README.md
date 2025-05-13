@@ -1,4 +1,4 @@
-# 📊 Udemy Courses Analysis Dashboard
+# 📊 Udemy Courses Analysis
 
 This project presents an interactive Power BI dashboard analyzing Udemy course data to uncover trends in **subscribers**, **revenue**, and **course distribution** across different **levels** and **subjects**. The analysis provides actionable insights to support strategic decisions for online course platforms.
 
